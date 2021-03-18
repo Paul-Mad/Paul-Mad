@@ -2,7 +2,7 @@
 <h1 align="center"> Hello Visitor 👋 </h1>
 
 
- I'm Paulo H Madeira, Junior Front-End Developer. I am currently focusing on React and nodeJS, in a near future, I will expand to Angular and VueJs. 
+ I'm Paulo H Madeira, Junior Front-End Developer. I am currently focusing on React and nodeJS projects. 
 This Github is used to control my projects as I build them, and any other ideas I might have.
 
 <br>
