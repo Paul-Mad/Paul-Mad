@@ -14,7 +14,7 @@ I'm Paulo H Madeira, Junior Front-End Developer. Currently, I am focused on Reac
 
 <h4 align="center">Top langs</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Mad&langs_count=10&theme=tokyonight&layout=compact" alt="Gabriel :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Mad&langs_count=10&theme=tokyonight&layout=compact" alt="Paulo :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
