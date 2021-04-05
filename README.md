@@ -6,7 +6,7 @@ I'm Paulo H Madeira, Junior Front-End Developer and I'm currently building some 
 
 <br>
 
-<h2>You can contact me at :smile:</h2>
+<h2>You can contact me at:</h2>
  <a href="https://www.linkedin.com/in/paulomad" target="_blank" rel="noopener noreferrer"><img width=35 src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp; 
  
 <h2 align="center">Github stats :bar_chart:</h2>
